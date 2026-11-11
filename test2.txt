@@ -2,3 +2,4 @@ test2 restored
 test2 changed this line after rm --cached
 new line after git add (I expect this version won't be committed and pushed) 
 new line again
+new line again2
