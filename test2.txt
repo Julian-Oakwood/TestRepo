@@ -1,0 +1,2 @@
+test2 restored 
+test2 changed this line after rm --cached
